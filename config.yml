@@ -1,0 +1,34 @@
+spawn:
+ x: 0.5
+ y: 64.5
+ z: 0.5
+ yaw: -180,0
+ pitch: 0
+ world: "overworld"
+scoreboard:
+  title: '&c&lServer Name'
+  slots:
+  - '&7&m--------------------'
+  - '&c&lOnline Players:'
+  - '&7%online%'
+  - ''
+  - '&cwww.server.com'
+  - '&7&m--------------------'
+  slots-with-queue:
+  - '&7&m--------------------'
+  - '&c&lOnline Players:'
+  - '&7%online%'
+  - ''
+  - '&c&lQueue:'
+  - '&7%queue%'
+  - ''
+  - '&cwww.server.com'
+  - '&7&m--------------------'
+
+  
+server:
+ bungee-ip: "localhost"
+ bungee-port: 25577
+ 
+tab:
+ server-name: "&c&lServer Name" 

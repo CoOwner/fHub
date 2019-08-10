@@ -1,0 +1,7 @@
+name: FragHub
+authors: [Sycatle, howgf, Sycatle]
+main: com.fragmc.hub.Hub
+version: 1.0
+depend: [EzQueueSpigot]
+commands:
+ setspawn:

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://C:/Users/Charlie-ASUS/Documents/Développement/Importants/paperspigot.jar" />
+    <libelement value="file://C:/Users/Charlie-ASUS/Desktop/Tablist-0.1-SNAPSHOT_2.jar" />
+    <libelement value="file://C:/Users/Charlie-ASUS/Desktop/EzQueueSpigot.jar" />
+    <libelement value="file://C:/Users/Maxime/Desktop/test bungee/Server02 (Practice)/paper.jar" />
+    <libelement value="file://C:/Users/Maxime/Desktop/New folder (11)/EzQueueSpigot.jar" />
+    <libelement value="file://C:/Users/Maxime/Desktop/New folder (11)/Tablist-0.1-SNAPSHOT_2.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-1.8" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="paperspigot.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Charlie-ASUS/Documents/Développement/Importants/paperspigot.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Tablist-0.1-SNAPSHOT_2.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Charlie-ASUS/Desktop/Tablist-0.1-SNAPSHOT_2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="EzQueueSpigot.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Charlie-ASUS/Desktop/EzQueueSpigot.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="paper.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Maxime/Desktop/test bungee/Server02 (Practice)/paper.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="C:/Users/Maxime/Desktop/New folder (11)/EzQueueSpigot.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Maxime/Desktop/New folder (11)/EzQueueSpigot.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="C:/Users/Maxime/Desktop/New folder (11)/Tablist-0.1-SNAPSHOT_2.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Maxime/Desktop/New folder (11)/Tablist-0.1-SNAPSHOT_2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,33 @@
+scoreboard:
+  title: '&c&lServer Name'
+  slots:
+  - '&7&m--------------------'
+  - '&c&lOnline Players:'
+  - '&7%online%'
+  - ''
+  - '&c&lRank:'
+  - '&7%rank%'
+  - ''
+  - '&cwww.server.com'
+  - '&7&m--------------------'
+  slots-with-queue:
+  - '&7&m--------------------'
+  - '&c&lOnline Players:'
+  - '&7%online%'
+  - ''
+  - '&c&lRank:'
+  - '&7%rank%'
+  - ''
+  - '&c&lQueue:'
+  - '&7%queue%'
+  - ''
+  - '&cwww.server.com'
+  - '&7&m--------------------'
+
+  
+server:
+ bungee-ip: "localhost"
+ bungee-port: 25577
+ 
+tab:
+ server-name: "&c&lServer Name" 

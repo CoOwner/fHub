@@ -1,0 +1,7 @@
+name: Hub
+authors: [Sycatle, howgf, NoCode, Kuro]
+main: com.fragmc.hub.Hub
+version: 1.0
+depend: [EzQueueSpigot]
+commands:
+ setspawn:
